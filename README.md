@@ -31,7 +31,7 @@ Follow these steps to get a local copy up and running:
 
 1.**Clone the Repository**:
    ```sh
-       git clone <repository-url>
+       git clone <https://github.com/vaishnavi-643/OCR_IITR_Project.git>
   ```
 
 2.**Create and Activate Virtual Environment**:
