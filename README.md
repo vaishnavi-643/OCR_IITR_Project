@@ -83,7 +83,7 @@ The app is deployed at [Live URL](https://ocriitr-vaishnaviverma.streamlit.app/)
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](MIT License
+This project is licensed under the MIT License. See the [LICENSE](`MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -101,7 +101,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+SOFTWARE.`
 ) file for more information.
 
 ## Contact
