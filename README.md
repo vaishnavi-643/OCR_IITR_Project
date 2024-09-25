@@ -1,28 +1,29 @@
 # OCR and Document Search Web Application Prototype 
+
 This project is a web-based application designed to perform Optical Character Recognition (OCR) on uploaded images that contain text in both Hindi and English. The extracted text can then be searched using a keyword search feature, with matching sections highlighted. This application is built using Python, EasyOCR, Streamlit, and other supporting libraries.
 
 ## Features
--**Image Upload**: Users can upload images in various formats such as JPG, PNG, or JPEG.
--**OCR Functionality**: Text is extracted from the uploaded image using EasyOCR, which supports both Hindi and English text.
--**Keyword Search**: Users can input keywords to search within the extracted text, and the application highlights matching sections.
--**Preprocessing**: The image is preprocessed (converted to grayscale, thresholded) to improve OCR accuracy.
--**Live Deployment**: The application is deployed online for easy access via a live URL.
+- **Image Upload**: Users can upload images in various formats such as JPG, PNG, or JPEG.
+- **OCR Functionality**: Text is extracted from the uploaded image using EasyOCR, which supports both Hindi and English text.
+- **Keyword Search**: Users can input keywords to search within the extracted text, and the application highlights matching sections.
+- **Preprocessing**: The image is preprocessed (converted to grayscale, thresholded) to improve OCR accuracy.
+- **Live Deployment**: The application is deployed online for easy access via a live URL.
 
 ## Technologies Used
--**Programming Language**: Python
--**Libraries**:
+- **Programming Language**: Python
+- **Libraries**:
    EasyOCR for OCR functionality.
    Streamlit for building the web interface.
    OpenCV for image preprocessing.
    PIL (Pillow) for image handling.
    NumPy for image manipulation.
--**Deployment**: Streamlit Sharing or any other online platform like Huggingface Spaces.
+- **Deployment**: Streamlit Sharing or any other online platform like Huggingface Spaces.
 
 ## Project Structure
--**app.py**: The main file containing the code for the Streamlit app and the OCR processing.
--**requirements.txt**: A list of all required Python libraries to run the application.
--**temp_image.jpg**: Temporary image file generated during OCR processing.
-**README.md**: Documentation explaining the project setup, usage, and deployment.
+- **app.py**: The main file containing the code for the Streamlit app and the OCR processing.
+- **requirements.txt**: A list of all required Python libraries to run the application.
+- **temp_image.jpg**: Temporary image file generated during OCR processing.
+- **README.md**: Documentation explaining the project setup, usage, and deployment.
 
 ## Installation
 
@@ -60,10 +61,10 @@ Once the servers are running, you can access the application at `http://localhos
 ## Example
 Here’s an example of how the application works:
 
--User uploads an image containing text in both Hindi and English.
--The OCR processes the image, extracts the text, and displays it on the page.
--User enters a keyword (e.g., “search”) in the search box.
--If the keyword is found, the matching section is highlighted.
+- User uploads an image containing text in both Hindi and English.
+- The OCR processes the image, extracts the text, and displays it on the page.
+- User enters a keyword (e.g., “search”) in the search box.
+- If the keyword is found, the matching section is highlighted.
 
 ## Contributing
 
