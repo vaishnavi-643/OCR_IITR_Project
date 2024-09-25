@@ -79,7 +79,7 @@ Here’s an example of how the application works:
 Please make sure to update tests as appropriate and follow the code of conduct outlined in the repository.
 
 ## Deployment
-The app is deployed at [Live URL]().
+The app is deployed at [Live URL](https://ocriitr-vaishnaviverma.streamlit.app/).
 
 ## License
 
